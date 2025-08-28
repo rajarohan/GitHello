@@ -1,2 +1,2 @@
 # GitHello
-first temple 
+first template
